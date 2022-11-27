@@ -1,0 +1,45 @@
+/* @media screen and (min-width: 768px) {
+    .navbar {
+        padding: 15px 80px;
+    }
+
+    .navbar-toggler {
+        display: none;
+    }
+
+    .nav-item-mobile {
+        display: block;
+        display: flex;
+        align-items: center;
+    }
+
+    .nav-item-desktop {
+        display: none;
+    }
+} */
+
+/* RESPONSIVE .nav-toggle {
+    display: flex;
+}
+
+.navbar-brand {
+    font-size: 20px;
+}
+
+@media (max-width: 576px) {
+    .portCarousel .carousel-item>img {
+        height: 50vh;
+        object-fit: cover;
+    }
+
+}
+
+
+
+@media screen and (max-width:991.98px) {}
+
+@media screen and (min-width: 1024px) {
+    .nav-item-mobile {
+        display: none;
+    }
+} */
